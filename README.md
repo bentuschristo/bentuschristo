@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋
+
+My name is Benedictus. I recently received my B.Eng degree in Electrical Engineering, concentrating in Mechatronics Engineering.
+
+I'm interested to work on various robotics topics.
+
+
+
+
 
 <!--
 **bentuschristo/bentuschristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
