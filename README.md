@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Benedictus. I recently received my B.Eng degree in Electrical Engineering, concentrating in Mechatronics Engineering.
+My name is Benedictus. I recently received my B.Eng. degree in Electrical Engineering, concentrating in Mechatronics Engineering.
 
 I'm interested to work on various robotics topics.
 
