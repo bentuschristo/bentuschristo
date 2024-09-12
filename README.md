@@ -1,10 +1,12 @@
 ## Hello there 👋
 
-My name is Benedictus. I recently received my B.Eng. degree in Electrical Engineering, concentrating in Mechatronics Engineering.
+🧑🏽‍🎓 My name is Benedictus. I recently received my Bachelor's degree in Electrical Engineering, concentrating on Mechatronics Engineering.
 
-I'm interested to work on various robotics topics.
+🤖 I'm interested to work on various robotics and control topics.
 
+📧 If you have any questions regarding my repository, feel free to contact me.
 
+😃 Don't forgot to give credit if you use my code! 
 
 
 
